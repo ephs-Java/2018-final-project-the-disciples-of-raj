@@ -1,5 +1,5 @@
 # final-dix-sept-erledigt
-2017 Final Team Project
+2018 Final Team Project
 Seth, Rohan, Ashwin, Will, Raj, Blake, Matthew
 
 
@@ -10,7 +10,12 @@ PROJECT GOAL: Our goal is to learn to code an arduino and build a launchpad, whi
 2. Create a 2D array to represent the grid
 3. Build a launchpad using a kit 
 
-
+Sound Ideas:
+1. Piano
+2. Guitar
+3. Tuba
+4. Violin
+5. Percussion
 
 
 AP Java Launchpad Project Links:
