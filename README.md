@@ -6,8 +6,8 @@ Seth, Rohan, Ashwin, Will, Raj, Blake, Matthew
 
 
 PROJECT GOAL: Our goal is to learn to code an arduino and build a launchpad, which is a grid of buttons that play a sound on each button. Here are some components of our project:
-1. Create classes that represent different instruments
-2. Create a 2D array to represent the grid
+1. Use garageband to represent different instruments
+2. Code the arduino to play music
 3. Build a launchpad using a kit 
 
 Sound Ideas:
